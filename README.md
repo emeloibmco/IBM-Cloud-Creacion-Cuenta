@@ -23,7 +23,12 @@ Tiene acceso a un único grupo de recursos creado para usted y denominado Predet
 * Contar con una cuenta en <a href="https://cloud.ibm.com/"> IBM Cloud</a>.
 * Contar con un grupo de recursos específico para la implementación de los recursos.
 * Instalación de <a href="https://www.pgadmin.org/download/"> pgAdmin 4</a>. 
+
+![image](https://user-images.githubusercontent.com/88363223/128297098-aecbfe56-42fc-4c6f-9f41-b4413bcb2b76.png)
+
+
 <br />
+
 
 ## Verificar correo
 
@@ -35,14 +40,31 @@ Para realizar el ejercicio lo primero que debe hacer es crear una *Base de datos
 * ```Nombre```: asigne un nombre exclusivo para la *Base de Datos*.
 * ```Grupo de recursos```: seleccione el grupo de recursos en el cual va a trabajar.
 
+
+![image](https://user-images.githubusercontent.com/88363223/128296985-1712a2f1-5838-4c79-8314-a41db1e6ea79.png)
+
+
+![image](https://user-images.githubusercontent.com/88363223/128297326-2f2d75ae-54d0-4e56-aaa1-1f66d0c7cc1c.png)
+
+
+![image](https://user-images.githubusercontent.com/88363223/128297367-812411f2-c053-4e4f-aa97-a24754982c3d.png)
+
+
 ## Documentar informacion personal
+
+![image](https://user-images.githubusercontent.com/88363223/128297418-6e2f25e4-2272-4158-ab70-f0377e1349e9.png)
 
 
 ## Crear cuenta
 
+![image](https://user-images.githubusercontent.com/88363223/128297485-8c25fecb-2d0f-401e-b71f-0c9bc36d3228.png)
+
+
+![image](https://user-images.githubusercontent.com/88363223/128297708-06a0aa0d-5cb1-4ae0-9a72-54acd2c3d7bd.png)
 
 
 ## Referencias
+https://cloud.ibm.com/docs/account?topic=account-enablemfa
 
 
 
