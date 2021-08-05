@@ -25,7 +25,8 @@ Tiene acceso a un único grupo de recursos creado para usted y denominado Predet
 * Instalación de <a href="https://www.pgadmin.org/download/"> pgAdmin 4</a>. 
 <br />
 
-## Verificar correo :floppy_disk:
+## Verificar correo
+
 Para realizar el ejercicio lo primero que debe hacer es crear una *Base de datos PostgreSQL* en su cuenta de *IBM Cloud*. Para ello, siga los pasos que se indican a continuación:
 1. Con <a href="https://cloud.ibm.com/catalog/services/databases-for-postgresql">Databases for PostgreSQL</a>, automaticamente será redirigido a la creación de la base de datos.
 2. Una vez le aparezca la ventana para la configuración y creación de la *Base de Datos*, complete lo siguiente:
