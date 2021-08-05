@@ -11,7 +11,7 @@ Tiene acceso a un único grupo de recursos creado para usted y denominado Predet
 <br />
 
 ## Índice  📰
-1. [Información de la cuenta :pencil:](#Información-de-la-cuenta)
+1. [Información de la cuenta](#Información-de-la-cuenta)
 2. [Verificar correo](#verificar-correo)
 3. [Documentar informacion personal](#Documentar-informacion-personal)
 4. [Crear cuenta](#Crear-cuenta)
@@ -19,7 +19,7 @@ Tiene acceso a un único grupo de recursos creado para usted y denominado Predet
 6. [Autores](#Autores)
 <br />
 
-## Información de la cuenta :pencil:
+## Información de la cuenta
 * Contar con una cuenta en <a href="https://cloud.ibm.com/"> IBM Cloud</a>.
 * Contar con un grupo de recursos específico para la implementación de los recursos.
 * Instalación de <a href="https://www.pgadmin.org/download/"> pgAdmin 4</a>. 
