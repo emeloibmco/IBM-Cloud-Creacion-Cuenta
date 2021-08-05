@@ -11,7 +11,7 @@ Tiene acceso a un único grupo de recursos creado para usted y denominado Predet
 <br />
 
 ## Índice  📰
-1. [Información de la cuenta ](#Información-de-la-cuenta)
+1. [Información de la cuenta :pencil:](#Información-de-la-cuenta)
 2. [Verificar correo](#verificar-correo)
 3. [Documentar informacion personal](#Documentar-informacion-personal)
 4. [Crear cuenta](#Crear-cuenta)
