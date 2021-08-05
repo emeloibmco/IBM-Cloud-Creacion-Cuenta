@@ -54,15 +54,16 @@ Tiene acceso a un único grupo de recursos creado para usted y denominado Predet
 
 ## Crear cuenta
 
-![image](https://user-images.githubusercontent.com/88363223/128297485-8c25fecb-2d0f-401e-b71f-0c9bc36d3228.png"></p>
+<p align="center"><img width="500" src="https://user-images.githubusercontent.com/88363223/128297485-8c25fecb-2d0f-401e-b71f-0c9bc36d3228.png"></p>
 
 
-![image](https://user-images.githubusercontent.com/88363223/128297708-06a0aa0d-5cb1-4ae0-9a72-54acd2c3d7bd.png"></p>
+<p align="center"><img width="500" src="https://user-images.githubusercontent.com/88363223/128297708-06a0aa0d-5cb1-4ae0-9a72-54acd2c3d7bd.png"></p>
 
 
 ## Referencias
-https://cloud.ibm.com/docs/account?topic=account-enablemfa
 
+https://cloud.ibm.com/docs/account?topic=account-account-getting-started
+https://cloud.ibm.com/docs/account?topic=account-enablemfa
 
 
 ## Autores
