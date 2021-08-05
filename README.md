@@ -41,7 +41,7 @@ Para realizar el ejercicio lo primero que debe hacer es crear una *Base de datos
 * ```Grupo de recursos```: seleccione el grupo de recursos en el cual va a trabajar.
 
 
-![image](https://user-images.githubusercontent.com/88363223/128296985-1712a2f1-5838-4c79-8314-a41db1e6ea79.png)
+<p align="center"><img width="700" src=(https://user-images.githubusercontent.com/88363223/128296985-1712a2f1-5838-4c79-8314-a41db1e6ea79.png)></p>!
 
 
 ![image](https://user-images.githubusercontent.com/88363223/128297326-2f2d75ae-54d0-4e56-aaa1-1f66d0c7cc1c.png)
