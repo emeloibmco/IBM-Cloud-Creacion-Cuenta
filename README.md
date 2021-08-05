@@ -34,20 +34,15 @@ Tiene acceso a un único grupo de recursos creado para usted y denominado Predet
 
 ## Verificar correo
 
-Para realizar el ejercicio lo primero que debe hacer es crear una *Base de datos PostgreSQL* en su cuenta de *IBM Cloud*. Para ello, siga los pasos que se indican a continuación:
-1. Con <a href="https://cloud.ibm.com/catalog/services/databases-for-postgresql">Databases for PostgreSQL</a>, automaticamente será redirigido a la creación de la base de datos.
-2. Una vez le aparezca la ventana para la configuración y creación de la *Base de Datos*, complete lo siguiente:
-* ```Ubicación```: seleccione la ubicación en la cual desea implementar la *Base de Datos*.
-* ```Plan de precios```: Standard
-* ```Nombre```: asigne un nombre exclusivo para la *Base de Datos*.
-* ```Grupo de recursos```: seleccione el grupo de recursos en el cual va a trabajar.
-
-
-<p align="center"><img width="500" src="https://user-images.githubusercontent.com/88363223/128296985-1712a2f1-5838-4c79-8314-a41db1e6ea79.png"></p>
-
+* Un correo similar al correo adjunto en la image será enviado a la cuenta de correo consignada en el paso anterior. 
 
 <p align="center"><img width="500" src="https://user-images.githubusercontent.com/88363223/128297326-2f2d75ae-54d0-4e56-aaa1-1f66d0c7cc1c.png"></p>
 
+* Un correo similar al correo adjunto en la image será enviado a la cuenta de correo consignada en el paso anterior. 
+
+<p align="center"><img width="500" src="https://user-images.githubusercontent.com/88363223/128296985-1712a2f1-5838-4c79-8314-a41db1e6ea79.png"></p>
+
+* Un correo similar al correo adjunto en la image será enviado a la cuenta de correo consignada en el paso anterior. 
 
 <p align="center"><img width="500" src="https://user-images.githubusercontent.com/88363223/128297367-812411f2-c053-4e4f-aa97-a24754982c3d.png"></p>
 
