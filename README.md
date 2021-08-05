@@ -15,8 +15,8 @@ Tiene acceso a un único grupo de recursos creado para usted y denominado Predet
 2. [Verificar correo](#verificar-correo)
 3. [Documentar informacion personal](#Documentar-informacion-personal)
 4. [Crear cuenta](#Crear-cuenta)
-5. [Referencias](#Referencias-mag)
-6. [Autores](#Autores-black_nib)
+5. [Referencias](#Referencias)
+6. [Autores](#Autores)
 <br />
 
 ## Información de la cuenta :pencil:
