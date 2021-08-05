@@ -11,21 +11,21 @@ Tiene acceso a un único grupo de recursos creado para usted y denominado Predet
 <br />
 
 ## Índice  📰
-1. [PreRequisitos](#Pre-Requisitos-pencil)
-2. [Crear Base de datos PostgreSQL](#Crear-Base-de-datos-PostgreSQL-floppy_disk)
-3. [Conexión con pgAdmin](#Conexión-con-pgAdmin-electric_plug)
-4. [CRUD en la base de datos](#CRUD-en-la-base-de-datos-hammer)
+1. [Información de la cuenta ](#Información-de-la-cuenta)
+2. [Verificar correo](#verificar-correo)
+3. [Documentar informacion personal](#Documentar-informacion-personal)
+4. [Crear cuenta](#Crear-cuenta)
 5. [Referencias](#Referencias-mag)
 6. [Autores](#Autores-black_nib)
 <br />
 
-## Pre Requisitos :pencil:
+## Información de la cuenta :pencil:
 * Contar con una cuenta en <a href="https://cloud.ibm.com/"> IBM Cloud</a>.
 * Contar con un grupo de recursos específico para la implementación de los recursos.
 * Instalación de <a href="https://www.pgadmin.org/download/"> pgAdmin 4</a>. 
 <br />
 
-## Crear Base de datos PostgreSQL :floppy_disk:
+## Verificar correo :floppy_disk:
 Para realizar el ejercicio lo primero que debe hacer es crear una *Base de datos PostgreSQL* en su cuenta de *IBM Cloud*. Para ello, siga los pasos que se indican a continuación:
 1. Con <a href="https://cloud.ibm.com/catalog/services/databases-for-postgresql">Databases for PostgreSQL</a>, automaticamente será redirigido a la creación de la base de datos.
 2. Una vez le aparezca la ventana para la configuración y creación de la *Base de Datos*, complete lo siguiente:
@@ -33,3 +33,18 @@ Para realizar el ejercicio lo primero que debe hacer es crear una *Base de datos
 * ```Plan de precios```: Standard
 * ```Nombre```: asigne un nombre exclusivo para la *Base de Datos*.
 * ```Grupo de recursos```: seleccione el grupo de recursos en el cual va a trabajar.
+
+## Documentar informacion personal
+
+
+## Crear cuenta
+
+
+
+## Referencias
+
+
+
+## Autores
+
+
