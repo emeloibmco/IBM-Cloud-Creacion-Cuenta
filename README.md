@@ -137,7 +137,7 @@ Para aplicar el doble factor de autenticación en su cuenta en *IBM Cloud*, real
 <p align="center"><img width="900" src="https://github.com/emeloibmco/IBM-Cloud-Creacion-Cuenta/blob/main/Images/4_CodigosActivacion_Parte2.gif"></p>
 <br />
 
->> NOTA: Después de agregar el autenticador, la próxima vez que cierre e inicie sesión deberá colocar únicamente el código que se solicita en el paso 11, es decir, no deberá completar de nuevo los pasos 9 y 10.
+>> NOTA: Después de agregar el autenticador (queda registrado el correo en la aplicación de su teléfono), la próxima vez que cierre e inicie sesión deberá colocar únicamente el código que se solicita en el paso 11, es decir, no deberá completar de nuevo los pasos 9 y 10.
 <br />
 
 12. Si desea desactivar el MFA siga estos pasos: ```Gestionar/Manage``` ➡ ```Acceso (IAM)/Access (IAM)``` ➡ ```Valores/Settings``` ➡ ```Autenticación/Authentication``` ➡ ```Autenticación de multifactores (MFA)/Multifactor authentication (MFA)``` ➡ ```Editar/Edit``` ➡ ```Ninguna/None``` ➡ ```Actualizar/Update```.
