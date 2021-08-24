@@ -84,7 +84,7 @@ Para aplicar el doble factor de autenticación en su cuenta en *IBM Cloud*, real
     * ```MFA para usuarios con un IBMid/MFA for users with an IBMid```:
     * ```MFA para todos los usuarios (IdP de IBMid y soportados)/MFA for all users (IBMid & supported IdPs)```:
 
-    Para este caso seleccione la opción ```MFA para usuarios con un IBMid/MFA for users with an IBMid``` ➡ ```Todos los usuarios/All users``` ➡ ```Ninguna/None``` y habilite la     casilla de confiramción.
+    Para este caso seleccione la opción ```MFA para usuarios con un IBMid/MFA for users with an IBMid``` ➡ ```Todos los usuarios/All users``` y posteriormente, habilite la           casilla de confiramción.
 
 <br />
 
