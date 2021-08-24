@@ -1,4 +1,4 @@
-# IBM-Cloud - Creacion-Cuenta
+# IBM Cloud - Creacion de Cuenta ☁
 
 IBM Cloud® tiene tres tipos de cuentas: Lite, Pay-As-You-Go y Suscripción. Obtienes una cuenta Lite gratuita tan pronto como te registras. Pago por uso y Suscripción son opciones de cuenta facturables y cada una ofrece características diferentes. 
 
@@ -15,8 +15,9 @@ Tiene acceso a un único grupo de recursos creado para usted y denominado Predet
 2. [Verificar correo](#verificar-correo)
 3. [Documentar informacion personal](#Documentar-informacion-personal)
 4. [Crear cuenta](#Crear-cuenta)
-5. [Referencias](#Referencias)
-6. [Autores](#Autores)
+5. [Doble factor de autenticación](#Doble-factor-de-autenticación)
+6. [Referencias](#Referencias)
+7. [Autores](#Autores)
 <br />
 
 ## Información de la cuenta
@@ -46,27 +47,33 @@ Tiene acceso a un único grupo de recursos creado para usted y denominado Predet
 
 <p align="center"><img width="500" src="https://user-images.githubusercontent.com/88363223/128297367-812411f2-c053-4e4f-aa97-a24754982c3d.png"></p>
 
+<br />
+
 
 ## Documentar informacion personal
 
 <p align="center"><img width="500" src="https://user-images.githubusercontent.com/88363223/128297418-6e2f25e4-2272-4158-ab70-f0377e1349e9.png"></p>
 
+<br />
 
 ## Crear cuenta
 
 <p align="center"><img width="500" src="https://user-images.githubusercontent.com/88363223/128297485-8c25fecb-2d0f-401e-b71f-0c9bc36d3228.png"></p>
 
+<br />
 
 <p align="center"><img width="500" src="https://user-images.githubusercontent.com/88363223/128297708-06a0aa0d-5cb1-4ae0-9a72-54acd2c3d7bd.png"></p>
 
+<br />
+
+## Doble factor de autenticación
+<br />
 
 ## Referencias
-
-https://cloud.ibm.com/docs/account?topic=account-account-getting-started
-
-https://cloud.ibm.com/docs/account?topic=account-enablemfa
-
+* <a href="https://cloud.ibm.com/docs/account?topic=account-account-getting-started">Setting up your IBM Cloud account</a>
+* <a href="https://cloud.ibm.com/docs/account?topic=account-enablemfa">Enabling MFA for your account</a>
+<br />
 
 ## Autores
-
+Equipo *IBM Cloud Tech Sales Colombia*.
 
