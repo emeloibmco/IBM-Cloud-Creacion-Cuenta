@@ -70,6 +70,7 @@ Tiene acceso a un único grupo de recursos creado para usted y denominado Predet
 Como propietario o administrador de una cuenta de *IBM Cloud*®, puede optar por solicitar la autenticación multifactor (MFA) para cada usuario de la cuenta o solo para los usuarios con IBMID que no utilizan el inicio de sesión único (SSO).
 
 Para aplicar el doble factor de autenticación en su cuenta en *IBM Cloud*, realice lo siguiente:
+<br />
 
 1. Inicie sesión en el portal de *IBM Cloud*.
 <br />
@@ -97,6 +98,7 @@ Para aplicar el doble factor de autenticación en su cuenta en *IBM Cloud*, real
        * ```U2F MFA```: los usuarios se autentican mediante el uso de una clave de seguridad física basada en hardware que genera un código numérico de seis dígitos. Basado en el          estándar FIDO U2F, este factor ofrece el más alto nivel de seguridad.
 
     Para este caso seleccione la opción ```MFA para usuarios con un IBMid/MFA for users with an IBMid``` ➡ ```Todos los usuarios/All users``` y posteriormente, habilite la           casilla de confirmación.
+    
 <br />
 
 6. De click en el botón ```Actualizar/Update``` para aplicar los cambios.
