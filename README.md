@@ -72,16 +72,16 @@ Como propietario o administrador de una cuenta de *IBM Cloud*®, puede optar por
 Para aplicar el doble factor de autenticación en su cuenta en *IBM Cloud*, realice lo siguiente:
 
 1. Inicie sesión en el portal de *IBM Cloud*.
-
+<br />
 
 2. En la barra superior del ```Panel de control/Dahsboard``` de click en la pestaña ```Gestionar/Manage``` ➡ ```Acceso (IAM)/Access (IAM)```.
-
+<br />
 
 3. Seleccione la opción ```Valores/Settings``` ubicada en el menú lateral izquierdo.
-
+<br />
 
 4. Diríjase a la sección de ```Autenticación/Authentication``` y visualice la opción ```Autenticación de multifactores (MFA)/Multifactor authentication (MFA)```. Luego de click en el botón ```Editar/Edit```.
-
+<br />
 
 5. Seleccione el tipo de MFA que desea utilizar para habilitar la cuenta. En este caso se tienen 3 opciones:
     * ```Ninguna/None```: no se aplica ningún tipo de MFA.
@@ -97,10 +97,12 @@ Para aplicar el doble factor de autenticación en su cuenta en *IBM Cloud*, real
        * ```U2F MFA```: los usuarios se autentican mediante el uso de una clave de seguridad física basada en hardware que genera un código numérico de seis dígitos. Basado en el          estándar FIDO U2F, este factor ofrece el más alto nivel de seguridad.
 
     Para este caso seleccione la opción ```MFA para usuarios con un IBMid/MFA for users with an IBMid``` ➡ ```Todos los usuarios/All users``` y posteriormente, habilite la           casilla de confirmación.
-
+<br />
 
 6. De click en el botón ```Actualizar/Update``` para aplicar los cambios.
+<br />
 
+7. Cierre la sesión.
 <br />
 
 ## Referencias
