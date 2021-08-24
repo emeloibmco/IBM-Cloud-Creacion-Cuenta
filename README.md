@@ -67,7 +67,7 @@ Tiene acceso a un único grupo de recursos creado para usted y denominado Predet
 <br />
 
 ## Doble factor de autenticación
-Como propietario o administrador de una cuenta de *IBM Cloud*®, puede optar por solicitar la autenticación multifactor (MFA) para cada usuario de la cuenta o solo para los usuarios con IBMID que no utilizan el inicio de sesión único (SSO).
+Como propietario o administrador de una cuenta de *IBM Cloud*®, puede optar por solicitar la autenticación multifactor (MFA) para cada usuario de la cuenta o solo para los usuarios con IBMid que no utilizan el inicio de sesión único (SSO).
 
 Para aplicar el doble factor de autenticación en su cuenta en *IBM Cloud*, realice lo siguiente:
 <br />
@@ -89,7 +89,7 @@ Para aplicar el doble factor de autenticación en su cuenta en *IBM Cloud*, real
     
     * ```MFA para usuarios con un IBMid/MFA for users with an IBMid```:  solicite a los usuarios que se autentiquen mediante un IBMid, una contraseña y un código de acceso de un         solo uso basado en el tiempo (time-based one-time passcode - TOTP). Puede habilitar esta opción para todos los usuarios o usuarios no federados.
     
-    * ```MFA para todos los usuarios (IdP de IBMid y soportados)/MFA for all users (IBMid & supported IdPs)```: solicite a los usuarios que se autentiquen mediante uno de los            siguientes factores de MFA (esta opción se aplica a los usuarios que utilizan un IBMid o un proveedor de identidad externo (IdP)):
+    * ```MFA para todos los usuarios (IBMid & IdPs soportados)/MFA for all users (IBMid & supported IdPs)```: solicite a los usuarios que se autentiquen mediante uno de los            siguientes factores de MFA (esta opción se aplica a los usuarios que utilizan un IBMid o un proveedor de identidad externo (IdP)):
     
        * ```MFA basado en correo electrónico/Email-based MFA```: los usuarios se autentican mediante un código de seguridad que se envía en un correo electrónico.
        
