@@ -1,4 +1,4 @@
-# IBM Cloud - Creacion de Cuenta ☁
+# IBM Cloud - Creación de Cuenta ☁
 
 IBM Cloud® tiene tres tipos de cuentas: Lite, Pay-As-You-Go y Suscripción. Obtienes una cuenta Lite gratuita tan pronto como te registras. Pago por uso y Suscripción son opciones de cuenta facturables y cada una ofrece características diferentes. 
 
