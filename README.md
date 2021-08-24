@@ -125,10 +125,16 @@ Para aplicar el doble factor de autenticación en su cuenta en *IBM Cloud*, real
 10. Debe agregar el autenticador de su teléfono para acceder a la cuenta. Para ello, en la aplicación descargada de su teléfono, escanee el código QR y de click en el botón ```Siguiente: Pruebe su autenticador/Next: Test your authenticator```. Ingrese el código que se muestra en su teléfono y de click en ```Siguiente: verificar/Next: verify```. Cuando complete este paso con éxito presione ```Hecho/Done```. En su teléfono deberá aparecer el correo de cuenta de *IBM Cloud*.
 <br />
 
+<p align="center"><img width="900" src="https://github.com/emeloibmco/IBM-Cloud-Creacion-Cuenta/blob/main/Images/4_CodigosActivacion_Parte1.gif"></p>
+<br />
+
+<p align="center"><img width="600" src="https://github.com/emeloibmco/IBM-Cloud-Creacion-Cuenta/blob/main/Images/app.PNG"></p>
+<br />
+
 11. Ingrese el nuevo código de verificación que se muestre en su teléfono y de click en el botón ```Verificar/Verify```. Al final el proceso podrá visualizar el panel del control de portal y habrá accedido de forma correcta a su cuenta.
 <br />
 
-<p align="center"><img width="900" src="https://github.com/emeloibmco/IBM-Cloud-Creacion-Cuenta/blob/main/Images/4_CodigosActivacion.gif"></p>
+<p align="center"><img width="900" src="https://github.com/emeloibmco/IBM-Cloud-Creacion-Cuenta/blob/main/Images/4_CodigosActivacion_Parte2.gif"></p>
 <br />
 
 12. Si desea desactivar el MFA realice lo siguiente: ```Gestionar/Manage``` ➡ ```Acceso (IAM)/Access (IAM)``` ➡ ```Valores/Settings``` ➡ ```Autenticación/Authentication``` ➡ ```Autenticación de multifactores (MFA)/Multifactor authentication (MFA)``` ➡ ```Editar/Edit``` ➡ ```Ninguna/None``` ➡ ```Actualizar/Update```.
