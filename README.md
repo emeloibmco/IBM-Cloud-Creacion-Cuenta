@@ -83,9 +83,9 @@ Para aplicar el doble factor de autenticación en su cuenta en *IBM Cloud*, real
     * ```Ninguna/None```: no se aplica ningún tipo de MFA.
     * ```MFA para usuarios con un IBMid/MFA for users with an IBMid```:  solicite a los usuarios que se autentiquen mediante un IBMid, una contraseña y un código de acceso de un         solo uso basado en el tiempo (time-based one-time passcode - TOTP). Puede habilitar esta opción para todos los usuarios o usuarios no federados.
     * ```MFA para todos los usuarios (IdP de IBMid y soportados)/MFA for all users (IBMid & supported IdPs)```: solicite a los usuarios que se autentiquen mediante uno de los            siguientes factores de MFA (esta opción se aplica a los usuarios que utilizan un IBMid o un proveedor de identidad externo (IdP)):
-       * MFA basado en correo electrónico : los usuarios se autentican mediante un código de seguridad que se envía en un correo electrónico.
-       * TOTP MFA : los usuarios se autentican mediante un un código de acceso de un solo uso (TOTP).
-       * U2F MFA : los usuarios se autentican mediante el uso de una clave de seguridad física basada en hardware que genera un código numérico de seis dígitos. Basado en el                estándar FIDO U2F, este factor ofrece el más alto nivel de seguridad.
+       * ```MFA basado en correo electrónico/Email-based MFA```: los usuarios se autentican mediante un código de seguridad que se envía en un correo electrónico.
+       * ```TOTP MFA```: los usuarios se autentican mediante un un código de acceso de un solo uso (TOTP).
+       * ```U2F MFA```: los usuarios se autentican mediante el uso de una clave de seguridad física basada en hardware que genera un código numérico de seis dígitos. Basado en el          estándar FIDO U2F, este factor ofrece el más alto nivel de seguridad.
 
     Para este caso seleccione la opción ```MFA para usuarios con un IBMid/MFA for users with an IBMid``` ➡ ```Todos los usuarios/All users``` y posteriormente, habilite la           casilla de confirmación.
 
