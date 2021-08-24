@@ -75,7 +75,7 @@ Para aplicar el doble factor de autenticación en su cuenta en *IBM Cloud*, real
 1. Inicie sesión en el portal de *IBM Cloud*.
 <br />
 
-2. En la barra superior del ```Panel de control/Dahsboard``` de click en la pestaña ```Gestionar/Manage``` ➡ ```Acceso (IAM)/Access (IAM)```.
+2. En la barra superior del ```Panel de control/Dashboard``` de click en la pestaña ```Gestionar/Manage``` ➡ ```Acceso (IAM)/Access (IAM)```.
 <br />
 
 3. Seleccione la opción ```Valores/Settings``` ubicada en el menú lateral izquierdo.
