@@ -113,7 +113,7 @@ Para aplicar el doble factor de autenticación en su cuenta en *IBM Cloud*, real
 8. Inicie sesión con su cuenta de *IBM Cloud* y espere mientras carga la ventana.
 <br />
 
-<p align="center"><img width="900" src="https://github.com/emeloibmco/IBM-Cloud-Creacion-Cuenta/blob/main/Images/2_InicioSesion.gif"></p>
+<p align="center"><img width="900" src="https://github.com/emeloibmco/IBM-Cloud-Creacion-Cuenta/blob/main/Images/2_InicioSesion.PNG"></p>
 <br />
 
 9. Posteriormente, debe ingresar un código que es enviado a su correo electrónico y presionar el botón ```Verificar/Verify```. Cuando cargue la ventana podrá observar un anuncio que le indica que ahora la conexión es más segura, de click en el botón ```Empezar/Get started```. Luego, le aparecerá una ventana que indica que debe usar una app como autenticador. Seleccione la opción mediante ```Configuración/Setup```, descargue en su teléfono la aplicación ```IBM Verify``` y de click en el botón ```Siguiente: Conectar a su autenticador/Next: Connect to your authenticator```.
