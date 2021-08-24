@@ -137,7 +137,7 @@ Para aplicar el doble factor de autenticación en su cuenta en *IBM Cloud*, real
 <p align="center"><img width="900" src="https://github.com/emeloibmco/IBM-Cloud-Creacion-Cuenta/blob/main/Images/4_CodigosActivacion_Parte2.gif"></p>
 <br />
 
-12. Si desea desactivar el MFA realice lo siguiente: ```Gestionar/Manage``` ➡ ```Acceso (IAM)/Access (IAM)``` ➡ ```Valores/Settings``` ➡ ```Autenticación/Authentication``` ➡ ```Autenticación de multifactores (MFA)/Multifactor authentication (MFA)``` ➡ ```Editar/Edit``` ➡ ```Ninguna/None``` ➡ ```Actualizar/Update```.
+12. Si desea desactivar el MFA siga estos pasos: ```Gestionar/Manage``` ➡ ```Acceso (IAM)/Access (IAM)``` ➡ ```Valores/Settings``` ➡ ```Autenticación/Authentication``` ➡ ```Autenticación de multifactores (MFA)/Multifactor authentication (MFA)``` ➡ ```Editar/Edit``` ➡ ```Ninguna/None``` ➡ ```Actualizar/Update```.
 <br />
 
 <p align="center"><img width="900" src="https://github.com/emeloibmco/IBM-Cloud-Creacion-Cuenta/blob/main/Images/5_Desactivacion_MFA.gif"></p>
