@@ -67,7 +67,7 @@ Tiene acceso a un único grupo de recursos creado para usted y denominado Predet
 <br />
 
 ## Doble factor de autenticación
-Para aplicar el soble factor de autenticación en su cuenta en *IBM Cloud*, realice lo siguiente:
+Para aplicar el doble factor de autenticación en su cuenta en *IBM Cloud*, realice lo siguiente:
 
 1. Inicie sesión en el portal de *IBM Cloud*.
 
